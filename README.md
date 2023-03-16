@@ -23,8 +23,8 @@ This is a REST API Example based on Symfony and API Platform.
 `http://localhost:80`
 
 - To get our API working we have to create our database and our tables with the following commands:  
-`docker-compose exec fpm ./bin/console doctrine:database:create`  
-`docker-compose exec fpm ./bin/console doctrine:schema:create`
+`docker compose exec fpm ./bin/console doctrine:database:create`  
+`docker compose exec fpm ./bin/console doctrine:schema:create`
 
 ## API Documentation :memo:
 The API documentation can be found in the above mentioned url or click here: <br>
