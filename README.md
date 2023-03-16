@@ -1,6 +1,6 @@
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)<br>
 
-# example-api-apiplatform :tada:
+# example-api-platform-symfony :tada:
 This is a REST API Example based on Symfony and API Platform.
 
 ## Requirements :package:
@@ -11,7 +11,7 @@ This is a REST API Example based on Symfony and API Platform.
 
 ## Setup 🔨
 - Clone the project with git  
-`git clone https://github.com/Xander93/example-api-apiplatform.git <project-dir>`
+`git clone https://github.com/Xander93/example-api-platform-symfony.git <project-dir>`
 
 - Run composer in the project directory to install all the dependencies.  
 `composer install`
