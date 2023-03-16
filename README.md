@@ -5,7 +5,7 @@ This is a REST API Example based on Symfony and API Platform.
 
 ## Requirements :package:
 - Composer
-- PHP x.x CLI
+- PHP 8.2-CLI
 - Docker
 - Docker-compose
 
@@ -28,7 +28,7 @@ This is a REST API Example based on Symfony and API Platform.
 
 ## API Documentation :memo:
 The API documentation can be found in the above mentioned url or click here: <br>
-http://localhost/docs?ui=re_doc
+http://localhost/api
 
 ## This repo is making use of Dependabot 🤖
 - Automated dependency updates built into GitHub
