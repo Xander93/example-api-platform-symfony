@@ -23,3 +23,6 @@ This is a REST API Example based on Symfony and API Platform.
 - To get our API working we have to create our database and our tables with the following commands:  
 `docker-compose exec fpm ./bin/console doctrine:database:create`  
 `docker-compose exec fpm ./bin/console doctrine:schema:create`
+
+## This repo is making use of Dependabot 🤖
+- Automated dependency updates built into GitHub
