@@ -1,13 +1,13 @@
-# example-api-apiplatform
+# example-api-apiplatform :tada:
 This is a REST API Example based on Symfony and API Platform.
 
-## Requirements
+## Requirements :package:
 - Composer
 - PHP x.x CLI
 - Docker
 - Docker-compose
 
-## Setup
+## Setup 🔨
 - Clone the project with git  
 `git clone https://github.com/Xander93/example-api-apiplatform.git <project-dir>`
 
