@@ -1,0 +1,6 @@
+{
+    "name": "Xander93/example-api-platform-symfony",
+    "description": "An example of how to set up an api in a container with api-platform & docker",
+    "license": "MIT",
+    "require": {}
+}
